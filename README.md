@@ -63,8 +63,3 @@ O uso do Streamlit torna a aplicação leve e fácil de usar, ideal para compart
 
 Este projeto é uma excelente demonstração de como combinar análise de dados, visualização e geolocalização em uma aplicação web simples e eficiente. Aproveite para explorar e expandir conforme suas necessidades! 🎉
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/58011902/783a9c60-dcb8-4d62-9a98-a435ff3ff58f/dashboard.py
-
----
-Resposta do Perplexity: pplx.ai/share
